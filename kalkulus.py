@@ -14,9 +14,5 @@ elif seçim ==2:
     celsius = (fahrenheit-32) /1.8
     print(f"{fahrenheit}, to {celsius}")
 
-print("-"*30)
-print("1-celsius")
-print("2-fahrenheit")
-secim = int(input("1/2"))
 
 
